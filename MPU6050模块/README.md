@@ -10,7 +10,7 @@
 
 ## 模块的PCB尺寸大小
 
-![MPU6050PCB-尺寸图.png](attachment:bc323a36-8794-4582-a2d8-839316e2f4cb:TB6612PCB-尺寸图.png)
+![MPU6050PCB-尺寸图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/MPU6050%E6%A8%A1%E5%9D%97/MPU6050%E5%B0%BA%E5%AF%B8%E5%9B%BE.png)
 
 ## 模块的3D视图
 
