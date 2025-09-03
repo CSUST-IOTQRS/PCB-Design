@@ -5,7 +5,7 @@
 
 ## 模块原理图
 
-[4x4矩阵按键原理图.pdf](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/MPU6050%E6%A8%A1%E5%9D%97/MPU6050%E6%A8%A1%E5%9D%97%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
+[4x4矩阵按键原理图.pdf](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/4x4%E7%9F%A9%E9%98%B5%E6%8C%89%E9%94%AE/4x4%E7%9F%A9%E9%98%B5%E6%8C%89%E9%94%AE%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
 
 ## 模块的PCB尺寸大小
 
