@@ -11,7 +11,7 @@
 
 ## 模块的PCB尺寸大小
 
-![MPU6050PCB-尺寸图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/MPU6050%E6%A8%A1%E5%9D%97/MPU6050%E5%B0%BA%E5%AF%B8%E5%9B%BE.png)
+![MPU6050PCB-尺寸图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/MPU6050%E6%A8%A1%E5%9D%97/MPU6050PCB-%E5%B0%BA%E5%AF%B8%E5%9B%BE.png)
 
 ## 模块的3D视图
 
