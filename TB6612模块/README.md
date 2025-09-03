@@ -6,8 +6,8 @@
 
 ## 模块的3D视图
 
-![TB6612PCB-3D视图.png](attachment:8166b46a-f6a3-4b95-9910-e733a638612d:TB6612PCB-3D视图.png)
+![TB6612PCB-3D视图.png](attachment:809da95d-2f0c-44e8-9b76-3f7387f4bd1d:TB6612PCB-3D视图.png)
 
 ## 模块的PCB尺寸大小
 
-![TB6612PCB-尺寸图.png](attachment:0814e5b6-3a0b-4aaf-8111-81fd18353323:TB6612PCB-尺寸图.png)
+![TB6612PCB-尺寸图.png](attachment:bc323a36-8794-4582-a2d8-839316e2f4cb:TB6612PCB-尺寸图.png)
