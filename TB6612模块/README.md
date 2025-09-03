@@ -6,7 +6,7 @@
 
 ## 模块的3D视图
 
-![TB6612PCB-3D视图.png](https://github.com/CSUST-IOTQRS/PCB-Design/edit/main/TB6612%E6%A8%A1%E5%9D%97/TB6612PCB-3D视图.png)
+![TB6612PCB-3D视图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/TB6612%E6%A8%A1%E5%9D%97/TB6612PCB-3D%E8%A7%86%E5%9B%BE.png)
 
 ## 模块的PCB尺寸大小
 
