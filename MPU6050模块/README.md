@@ -15,4 +15,4 @@
 
 ## 模块的3D视图
 
-![MPU6050PCB-3D视图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/MPU6050%E6%A8%A1%E5%9D%97/MPU6050-3D%E8%A7%86%E5%9B%BE.png)
+![MPU6050PCB-3D视图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/MPU6050%E6%A8%A1%E5%9D%97/MPU6050PCB-3D%E8%A7%86%E5%9B%BE.png)
