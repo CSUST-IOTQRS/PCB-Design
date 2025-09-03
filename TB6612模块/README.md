@@ -6,7 +6,7 @@
 
 ## 模块原理图
 
-![TB6612模块原理图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/TB6612%E6%A8%A1%E5%9D%97/TB6612%E6%A8%A1%E5%9D%97%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
+![TB6612模块原理图.pdf](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/TB6612%E6%A8%A1%E5%9D%97/TB6612%E6%A8%A1%E5%9D%97%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
 
 ## 模块的PCB尺寸图
 
