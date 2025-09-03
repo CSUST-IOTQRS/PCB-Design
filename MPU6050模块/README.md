@@ -6,7 +6,7 @@
 
 ## 模块原理图
 
-![MPU6050模块原理图.pdf]()
+![MPU6050模块原理图.pdf](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/MPU6050%E6%A8%A1%E5%9D%97/MPU6050%E6%A8%A1%E5%9D%97%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
 
 ## 模块的PCB尺寸大小
 
