@@ -14,4 +14,4 @@
 
 ## 模块的3D视图
 
-![MPU6050PCB-3D视图.png](attachment:809da95d-2f0c-44e8-9b76-3f7387f4bd1d:TB6612PCB-3D视图.png)
+![MPU6050PCB-3D视图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/MPU6050%E6%A8%A1%E5%9D%97/MPU6050-3D%E8%A7%86%E5%9B%BE.png)
