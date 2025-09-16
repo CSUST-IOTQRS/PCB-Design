@@ -8,8 +8,12 @@
 
 # 模块原理图
 
+[USB-HUB-V2.0原理图.pdf](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/USB-HUB-2.0/USB-HUB-V2.0%E5%8E%9F%E7%90%86%E5%9B%BE.pdf)
 
 ## 模块的PCB尺寸大小
 
+![USB-HUB-V2.0PCB-尺寸图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/USB-HUB-2.0/USB-HUB-V2.0PCB-%E5%B0%BA%E5%AF%B8%E5%9B%BE.png)
 
 ## 模块的3D视图
+
+![USB-HUB-V2.0PCB-3D视图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/USB-HUB-2.0/USB-HUB-V2.0PCB-3D%E8%A7%86%E5%9B%BE.png)
