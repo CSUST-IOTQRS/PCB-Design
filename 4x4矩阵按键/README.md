@@ -9,7 +9,7 @@
 
 ## 模块的PCB尺寸大小
 
-![4x4矩阵按键PCB-尺寸图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/4x4%E7%9F%A9%E9%98%B5%E6%8C%89%E9%94%AE/4x4%E7%9F%A9%E9%98%B5%E6%8C%89%E9%94%AEPCB-3D%E8%A7%86%E5%9B%BE.png)
+![4x4矩阵按键PCB-尺寸图.png](https://github.com/CSUST-IOTQRS/PCB-Design/blob/main/4x4%E7%9F%A9%E9%98%B5%E6%8C%89%E9%94%AE/4x4%E7%9F%A9%E9%98%B5%E6%8C%89%E9%94%AEPCB-%E5%B0%BA%E5%AF%B8%E5%9B%BE.png)
 
 ## 模块的3D视图
 
