@@ -1,5 +1,6 @@
 # 51单片机（STC89C52RC）核心板
 
+- 上传人：GUO
 - 工程文件用【立创专业版打开】
 - 在原有的基础上进行的优化，源工程参考这个视频[【强化篇】17-51单片机核心板元件选型](https://www.bilibili.com/video/BV1At421h7Ui?spm_id_from=333.788.videopod.episodes&vd_source=97690bfc4e901b939b3c3dd7d38be1ee&p=18)
 - 这个板子的非常基础，非常适合基础练习
